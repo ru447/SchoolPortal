@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<body>
+
+<nav th:fragment="navbar" class="navbar navbar-expand-lg navbar-dark bg-primary shadow">
+
+    <div class="container-fluid">
+
+        <a class="navbar-brand fw-bold" href="#">
+            🎓 ASAS School Portal
+        </a>
+
+        <div class="ms-auto d-flex align-items-center">
+
+            <span class="text-white me-3">
+                Welcome, Administrator
+            </span>
+
+            <a th:href="@{/logout}" class="btn btn-light btn-sm">
+                Logout
+            </a>
+
+        </div>
+
+    </div>
+
+</nav>
+
+</body>
+</html>
