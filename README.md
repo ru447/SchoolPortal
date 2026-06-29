@@ -1,4 +1,3 @@
-﻿# SchoolPortal
 # SchoolPortal
 
 A comprehensive web-based school management system designed to simplify academic and administrative operations for students, teachers, and administrators.
