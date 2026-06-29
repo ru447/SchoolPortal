@@ -51,14 +51,6 @@ MySQL Database
 * **Phase 3:** Past papers, document sharing, and PDF management
 * **Phase 4:** Notifications, messaging, and responsive design
 
-## Getting Started
-
-1. Clone the repository.
-2. Configure the MySQL database.
-3. Open the project in IntelliJ IDEA.
-4. Run the Spring Boot application.
-5. Access the application from your web browser.
-
 ## Author
 
 **Reuben Sianga**
